@@ -81,4 +81,6 @@
     -->
     <setup />
 
+    <target name="LocalDebug" depends="debug" />
+
 </project>
