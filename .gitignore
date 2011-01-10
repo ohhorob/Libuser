@@ -1,2 +1,8 @@
-\.idea
+\.idea/misc.xml
+\.idea/workspace.xml
+\.idea/vcs.xml
+\.idea/ant.xml
+\.DS_Store
+bin/
+gen/
 *\.swp
